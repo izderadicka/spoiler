@@ -2,7 +2,6 @@ package eu.zderadicka.spoiler;
 
 import static org.junit.Assert.assertTrue;
 
-import java.util.ArrayList;
 import java.util.logging.Logger;
 import java.util.stream.IntStream;
 
